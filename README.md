@@ -12,16 +12,16 @@ This is a simple movie recommender system built with Streamlit.
 2. Set the environment variable for the TMDB API key:
     - On Windows:
       ```cmd
-      set TMDB_API_KEY=your_api_key_here
+      set TMDB_API_KEY=api_key_here
       ```
     - On macOS/Linux:
       ```sh
-      export TMDB_API_KEY=your_api_key_here
+      export TMDB_API_KEY=api_key_here
       ```
 
 3. Run the Streamlit app:
     ```sh
-    streamlit run your_script_name.py
+    streamlit run app.py
     ```
 
 ## Usage
